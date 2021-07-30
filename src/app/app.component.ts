@@ -13,7 +13,7 @@ export class AppComponent implements OnInit {
 
   showModal() {
     this.isVisible = true;
-    const data = this.service.list().subscribe(console.log);
+    this.service.list().subscribe((data) => (this.routerTest = data));
   }
 
   handleCancel() {
