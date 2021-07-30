@@ -1,0 +1,54 @@
+{
+  "Router": [
+    {
+      "id": 58015,
+      "terminal_id": 57835,
+      "ip_address": "100.115.32.186",
+      "software_version": "2.0.0 0.9 v6034.0 Build 200924 Rel.47917",
+      "last_seen": "2021-07-28T15:53:30-03:00",
+      "data": [
+        {
+          "description": "Dispositivo com gerência ativa",
+          "result": "success"
+        },
+        {
+          "description": "Dispositivo configurado",
+          "result": "success"
+        },
+        {
+          "description": "Versão de software: 2.0.0 0.9 v6034.0 Build 200924 Rel.47917",
+          "result": "success"
+        },
+        {
+          "description": "Endereço IP: 100.115.32.186",
+          "result": "success"
+        }
+      ]
+    },
+    {
+      "id": 58016,
+      "terminal_id": 57836,
+      "ip_address": "100.115.32.186",
+      "software_version": "2.0.0 0.9 v6034.0 Build 200924 Rel.47917",
+      "last_seen": "2021-07-28T15:53:30-04:00",
+      "data": [
+        {
+          "description": "Dispositivo com gerência ativa",
+          "result": "success"
+        },
+        {
+          "description": "Dispositivo configurado",
+          "result": "success"
+        },
+        {
+          "description": "Versão de software: 2.0.0 0.9 v6034.0 Build 200924 Rel.47917",
+          "result": "success"
+        },
+        {
+          "description": "Endereço IP: 100.115.32.186",
+          "result": "error"
+        }
+      ]
+    }
+  ]
+}
